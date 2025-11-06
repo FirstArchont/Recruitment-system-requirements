@@ -14,7 +14,7 @@
 Кутырев Иван Романович
 
 ## Примеры диаграмм
-Uce Case
+Use Case
 
 
 <img width="574" height="871" alt="Use Case general" src="https://github.com/user-attachments/assets/2c397231-06e1-4c51-8a6a-d3ebbf639126" />
