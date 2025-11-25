@@ -9,6 +9,8 @@
 | **FSD документ** | Функциональные и нефункциональные требования, модель данных, отчёты |
 | **Use Cases** | Текстовое описание 3 ключевых сценариев: UC-01, UC-02, UC-03 |
 | **UML Диаграммы** | Use Case, Activity, Sequence |
+| **BPMN диаграмма** | Бизнес процессы |
+| **ERD диаграмма** | Взаимосвязь сущностей |
 
 ## Автор
 Кутырев Иван Романович
@@ -30,3 +32,15 @@ Activity
 
 
 <img width="442" height="689" alt="UC-01 Создание заявки на подбор" src="https://github.com/user-attachments/assets/9f6a6ad7-2504-4d2f-ad60-7279fe8812d0" />
+
+
+BPMN
+
+
+<img width="4126" height="2363" alt="BPMN Diagram" src="https://github.com/user-attachments/assets/c854518e-3d4c-4fe0-b88c-ea1f58ee9ac2" />
+
+
+ERD
+
+
+<img width="959" height="821" alt="ERD diagram" src="https://github.com/user-attachments/assets/5e0a3cd8-74ca-4ac6-a305-6e58749206c8" />
